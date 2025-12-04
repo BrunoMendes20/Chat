@@ -43,7 +43,7 @@ Clone o repositório e instale as dependências:
 git clone https://github.com/BrunoMendes20/Chat
 
 # Entrar na pasta do projeto
-cd seu-repo-chat
+cd Chat
 
 # Instalar as dependências
 npm install
